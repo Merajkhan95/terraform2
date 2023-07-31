@@ -15,4 +15,8 @@ provider "azurerm" {
   features {}
 }
 
+<<<<<<< HEAD
 #changes made to test on local1
+=======
+#changes made to test
+>>>>>>> 3c8d097ded3ec3ee0a9a02a7e5611a1b56df0fa8
